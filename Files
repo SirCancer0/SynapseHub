@@ -1,0 +1,7 @@
+local ronixUrls = {
+    ["Fisch Scripts"] = "https://api.luarmor.net/files/v3/loaders/a3c501e721ec4d66a864cc2276c0f4e9.lua",
+    ["Blue Lock Rivals"] = "https://api.luarmor.net/files/v3/loaders/11b27d5fda9f766b0525f84d8a056dcc.lua",
+    ["Dead Rails"] = "https://api.luarmor.net/files/v3/loaders/7e85e09e0a7cb75cfc813416ab17672c.lua",
+    ["BloxFruits"] = "https://api.luarmor.net/files/v3/loaders/fe9186f93ffe4000120ba5db7ef9443b.lua",
+    ["Blade Ball"] = "https://api.luarmor.net/files/v3/loaders/79ab2d3174641622d317f9e234797acb.lua"
+}
