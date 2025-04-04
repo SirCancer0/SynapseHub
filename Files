@@ -1,9 +1,3 @@
-Window:CreateHomeTab({
-    SupportedExecutors = {}, -- A Table Of Executors Your Script Supports. Add strings of the executor names for each executor.
-    DiscordInvite = "synapse", -- The Discord Invite Link. Do Not Include discord.gg/ | Only Include the code.
-    Icon = 1, -- By Default, The Icon Is The Home Icon. If You would like to change it to dashboard, replace the integer with 2
-})
-
 return {
     Fisch = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
@@ -13,16 +7,18 @@ return {
     },
     MM2 = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
-        ["testHub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
     },
     DeadRails = {
-        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Aussie Hub"] = {Script = "loadstring(game:HttpGet('https://aussie.productions/script'))()"},
     },
     bluelockrivals = {
-        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
     },
     Rivals = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Thunder Client"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/b95e8fecdf824e41f4a030044b055add.lua'))()"},
+        ["Tbao Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/tbao143/game/refs/heads/main/TbaoHubBlueLockRivals'))()"},
+        ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/e945f55997c4240abc865c0bcc2136c5.lua'))()"},
     },
     Universal = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
