@@ -9,7 +9,7 @@ return {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
     },
     DeadRails = {
-        ["Aussie Hub"] = {Script = "loadstring(game:HttpGet('https://aussie.productions/script'))()"},
+        ["Aussie Hub"] = {Script = "loadstring(game:HttpGet(request({Url='https://aussie.productions/script'}).Body))()"},
     },
     bluelockrivals = {
         ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
