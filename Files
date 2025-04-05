@@ -56,6 +56,7 @@ return {
         ["Hoho Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua'))()"},
     },
     bedwars = {
-        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Night (Needed A good Exec)"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/warprbx/NightRewrite/refs/heads/main/Night/Loader.luau'))()"},
+        ["Qp Vape (Needed A good Exec)"] = {Script = "loadstring(game:HttpGet('https://qpvape.org'))()"},
     }
 }
