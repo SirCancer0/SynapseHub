@@ -6,7 +6,7 @@ return {
         ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
         ["Solix Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua'))()"},
         ["Rinns Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/e1cfd93b113a79773d93251b61af1e2f.lua'))()"},
-        ["Speed Hub X"] = {Script = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()"},
+        ["Speed Hub X"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua', true))()"},
     },
     MM2 = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
@@ -16,7 +16,7 @@ return {
         ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/7e85e09e0a7cb75cfc813416ab17672c.lua'))()"},
         ["Solix Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua'))()"},
         ["Rinns Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/e1cfd93b113a79773d93251b61af1e2f.lua'))()"},
-        ["Speed Hub X"] = {Script = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()"},
+        ["Speed Hub X"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua', true))()"},
     },
     bluelockrivals = {
         ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
@@ -51,9 +51,9 @@ return {
         ["Rinns Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/e1cfd93b113a79773d93251b61af1e2f.lua'))()"},
     },
     bloxfruits = {
-        ["Speed Hub X"] = {Script = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()"},
+        ["Speed Hub X"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua', true))()"},
         ["Solix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/e1cfd93b113a79773d93251b61af1e2f.lua'))()"},
-        ["Hoho Hub"] = {Script = "loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()"},
+        ["Hoho Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua'))()"},
     },
     bedwars = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
