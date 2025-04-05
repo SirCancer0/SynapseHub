@@ -4,15 +4,19 @@ return {
         ["Kncrypt Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/sources/Fisch.lua'))()"},
         ["Native Hub"] = {Script = "loadstring(game:HttpGet('https://getnative.cc/script/loader'))()"},
         ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
+        ["Solix Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua'))()"},
     },
     MM2 = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Solix Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua'))()"},
     },
     DeadRails = {
-        ["Aussie Hub"] = {Script = "loadstring(game:HttpGet(request({Url='https://aussie.productions/script'}).Body))()"},
+        ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/7e85e09e0a7cb75cfc813416ab17672c.lua'))()"},
+        ["Solix Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua'))()"},
     },
     bluelockrivals = {
         ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
+        ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/c84ecefd7fa63a35d454d3ecefe3ee7e.lua'))()"},
     },
     Rivals = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
@@ -22,12 +26,18 @@ return {
     },
     Universal = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Infinite Yield"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"},
+        ["Nameless Admin"] = {Script = "loadstring(game:HttpGet('https://github.com/FilteringEnabled/NamelessAdmin/blob/main/Source?raw=true'))()"},
     },
     arsenal = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Tbao Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubArsenal'))()"},
+        ["Thunder Client"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/b95e8fecdf824e41f4a030044b055add.lua'))()"},
+        ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/79ab2d3174641622d317f9e234797acb.lua'))()"},
     },
     BladeBall = {
-        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Frostware Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fsploit/Frostware-/refs/heads/main/Bypass.lua'))()"},
+        ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/79ab2d3174641622d317f9e234797acb.lua'))()"},
     },
     BasketBallZero = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
