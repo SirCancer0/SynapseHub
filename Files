@@ -21,7 +21,7 @@ return {
     bluelockrivals = {
         ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet('https://scripts.alchemyhub.xyz'))()"},
         ["Ronix Hub"] = {Script = "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/c84ecefd7fa63a35d454d3ecefe3ee7e.lua'))()"},
-        ["Sterling Hub"] = {Script = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Zayn31214/name/refs/heads/main/SterlingNew"))()"},
+        ["Sterling Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Zayn31214/name/refs/heads/main/SterlingNew'))()"},
     },
     Rivals = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
